@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "mohasiboon",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.useEnvFile": true
+	}
+}
